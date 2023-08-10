@@ -1,5 +1,6 @@
 
 DockerFile 
+Link: https://collabnix.com/docker-cheatsheet/
 
 1. A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image.   
 2. The docker build command builds an image from a Dockerfile and a context.  
